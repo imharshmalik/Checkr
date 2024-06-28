@@ -1,0 +1,504 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "firstName": "James",
+      "lastName": "Rodriguez",
+      "userName": "James Rodriguez",
+      "email": "James@example.com",
+      "password": "James@123",
+      "dob": "1978-06-06T00:00:00.000Z",
+      "companyName": "Checkr"
+    },
+    {
+      "id": "7fdd",
+      "userName": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "1990-06-20",
+      "companyName": "Checkr",
+      "email": "harsh@gmail.com",
+      "password": "Password1"
+    },
+    {
+      "id": "bec8",
+      "userName": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "1990-06-20",
+      "companyName": "Checkr",
+      "email": "harsh@gmail.com",
+      "password": "Password1"
+    },
+    {
+      "id": "a1d4",
+      "userName": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "1990-06-20",
+      "companyName": "Checkr",
+      "email": "harsh@gmail.com",
+      "password": "Password1"
+    },
+    {
+      "id": "04f1",
+      "userName": "",
+      "firstName": "",
+      "lastName": "",
+      "dob": "1990-06-20",
+      "companyName": "Checkr",
+      "email": "dhruv@gmail.com",
+      "password": "Password2"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "1",
+      "name": "John Smith",
+      "location": "Barrouallie",
+      "email": "John.smith@checkr.com",
+      "dob": "1978-06-06T00:00:00.000Z",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": 94158,
+      "socialSecurity": "123-322-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Serene",
+      "location": "Vänersborg",
+      "email": "serene@checkr.com",
+      "dob": "1978-06-06T00:00:00.000Z",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": 94158,
+      "socialSecurity": "123-322-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "3",
+      "name": "Walsh",
+      "location": "Sukamanah",
+      "email": "walsh@checkr.com",
+      "dob": "1978-06-06T00:00:00.000Z",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": 94158,
+      "socialSecurity": "123-322-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "4",
+      "name": "Maurizia",
+      "location": "Sukamanah",
+      "email": "maurizia@checkr.com",
+      "dob": "1978-06-06T00:00:00.000Z",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": 94158,
+      "socialSecurity": "123-322-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "5",
+      "name": "Kendre",
+      "location": "Beutong Ateuh",
+      "email": "kendre@checkr.com",
+      "dob": "1978-06-06T00:00:00.000Z",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": 94158,
+      "socialSecurity": "123-322-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "6",
+      "name": "Erastus",
+      "location": "Höviyn Am",
+      "email": "erastus@checkr.com",
+      "dob": "1978-06-06T00:00:00.000Z",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": 94158,
+      "socialSecurity": "123-322-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "7",
+      "name": "Jereme",
+      "location": "Sharïngol",
+      "email": "jereme@checkr.com",
+      "dob": "1978-06-06T00:00:00.000Z",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": 94158,
+      "socialSecurity": "123-322-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "8",
+      "name": "John Smith",
+      "location": "Lianyun",
+      "email": "johnsmith@checkr.com",
+      "dob": "1978-06-06T00:00:00.000Z",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": 94158,
+      "socialSecurity": "123-322-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "9",
+      "name": "Cari",
+      "location": "Taboão da Serra",
+      "email": "cari@checkr.com",
+      "dob": "1978-06-06T00:00:00.000Z",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": 94158,
+      "socialSecurity": "123-322-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "10",
+      "name": "Kimble",
+      "location": "Veselí nad Moravou",
+      "email": "kimble@checkr.com",
+      "dob": "1978-06-06T00:00:00.000Z",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": 94158,
+      "socialSecurity": "123-322-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    }
+  ],
+  "adverseActions": [
+    {
+      "id": "1",
+      "candidateId": 1,
+      "pre_notice-date": 1645531200,
+      "post_notice_date": 1645531200,
+      "actionStatus": "Scheduled",
+      "action_update_time": 1480766400,
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "2",
+      "candidateId": 2,
+      "pre_notice-date": 1647172800,
+      "post_notice_date": 1647172800,
+      "actionStatus": "Scheduled",
+      "action_update_time": 1480766400,
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "3",
+      "candidateId": 3,
+      "pre_notice-date": 1656763200,
+      "post_notice_date": 1656763200,
+      "actionStatus": "Scheduled",
+      "action_update_time": 1480766400,
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "4",
+      "candidateId": 4,
+      "pre_notice-date": 1645358400,
+      "post_notice_date": 1645358400,
+      "actionStatus": "Scheduled",
+      "action_update_time": 1480766400,
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "5",
+      "candidateId": 5,
+      "pre_notice-date": 1652961600,
+      "post_notice_date": 1652961600,
+      "actionStatus": "Scheduled",
+      "action_update_time": 1480766400,
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "6",
+      "candidateId": 6,
+      "pre_notice-date": 1638360000,
+      "post_notice_date": 1638360000,
+      "actionStatus": "Scheduled",
+      "action_update_time": 1480766400,
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "7",
+      "candidateId": 7,
+      "pre_notice-date": 1658836800,
+      "post_notice_date": 1658836800,
+      "actionStatus": "Scheduled",
+      "action_update_time": 1480766400,
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "8",
+      "candidateId": 8,
+      "pre_notice-date": 1653739200,
+      "post_notice_date": 1653739200,
+      "actionStatus": "Scheduled",
+      "action_update_time": 1480766400,
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "9",
+      "candidateId": 9,
+      "pre_notice-date": 1653307200,
+      "post_notice_date": 1653307200,
+      "actionStatus": "Scheduled",
+      "action_update_time": 1480766400,
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    },
+    {
+      "id": "10",
+      "candidateId": 10,
+      "pre_notice-date": 1661342400,
+      "post_notice_date": 1661342400,
+      "actionStatus": "Scheduled",
+      "action_update_time": 1480766400,
+      "created_at": "2024-05-02T05:21:56.000Z",
+      "updated_at": "2024-05-02T05:21:56.000Z"
+    }
+  ],
+  "candidateCourtSearches": [
+    {
+      "id": "1",
+      "candidateId": 1,
+      "courtSearchId": 1,
+      "status": "Clear",
+      "created_at": "2023-11-17T00:00:00.000Z",
+      "updated_at": "2023-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "candidateId": 1,
+      "courtSearchId": 2,
+      "status": "Clear",
+      "created_at": "2022-05-17T00:00:00.000Z",
+      "updated_at": "2022-05-14T00:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "candidateId": 1,
+      "courtSearchId": 3,
+      "status": "Consider",
+      "created_at": "2024-11-17T00:00:00.000Z",
+      "updated_at": "2024-11-23T00:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "candidateId": 1,
+      "courtSearchId": 4,
+      "status": "Clear",
+      "created_at": "2024-11-23T00:00:00.000Z",
+      "updated_at": "2024-11-27T00:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "candidateId": 1,
+      "courtSearchId": 5,
+      "status": "Clear",
+      "created_at": "2023-11-17T00:00:00.000Z",
+      "updated_at": "2023-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "candidateId": 2,
+      "courtSearchId": 1,
+      "status": "Clear",
+      "created_at": "2023-07-02T00:00:00.000Z",
+      "updated_at": "2023-11-17T00:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "candidateId": 2,
+      "courtSearchId": 2,
+      "status": "Clear",
+      "created_at": "2020-11-17T00:00:00.000Z",
+      "updated_at": "2020-12-08T00:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "candidateId": 2,
+      "courtSearchId": 3,
+      "status": "Consider",
+      "created_at": "2019-05-27T00:00:00.000Z",
+      "updated_at": "2019-05-29T00:00:00.000Z"
+    },
+    {
+      "id": "9",
+      "candidateId": 2,
+      "courtSearchId": 4,
+      "status": "Clear",
+      "created_at": "2019-04-27T00:00:00.000Z",
+      "updated_at": "2019-06-29T00:00:00.000Z"
+    },
+    {
+      "id": "10",
+      "candidateId": 2,
+      "courtSearchId": 5,
+      "status": "Clear",
+      "created_at": "2018-04-05T00:00:00.000Z",
+      "updated_at": "2018-05-27T00:00:00.000Z"
+    }
+  ],
+  "courtSearches": [
+    {
+      "id": "1",
+      "name": "SSN Verification",
+      "created_at": "2023-11-17T00:00:00.000Z",
+      "updated_at": "2023-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Sex Offender",
+      "created_at": "2023-11-17T00:00:00.000Z",
+      "updated_at": "2023-11-17T00:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "name": "Global Watchlist",
+      "created_at": "2023-11-17T00:00:00.000Z",
+      "updated_at": "2023-11-17T00:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "name": "Federal Criminal",
+      "created_at": "2023-11-17T00:00:00.000Z",
+      "updated_at": "2023-11-17T00:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "name": "County Criminal",
+      "created_at": "2023-11-17T00:00:00.000Z",
+      "updated_at": "2023-11-17T00:00:00.000Z"
+    }
+  ],
+  "reports": [
+    {
+      "id": "1",
+      "package": "Employee pro",
+      "completed_date": "2022-02-01T00:00:00.000Z",
+      "adjudication": "ADVERSE ACTION",
+      "status": "Clear",
+      "candidateId": 1,
+      "created_at": "2022-01-01T00:00:00.000Z",
+      "updated_at": "2022-02-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "package": "Employee",
+      "completed_date": "2023-04-05T00:00:00.000Z",
+      "adjudication": "-",
+      "status": "Clear",
+      "candidateId": 2,
+      "created_at": "2023-04-02T00:00:00.000Z",
+      "updated_at": "2023-04-05T00:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "package": "Employee pro",
+      "completed_date": "2023-11-17T00:00:00.000Z",
+      "adjudication": "-",
+      "status": "Consider",
+      "candidateId": 3,
+      "created_at": "2023-10-17T00:00:00.000Z",
+      "updated_at": "2023-11-17T00:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "package": "Employee pro",
+      "completed_date": "2024-02-29T00:00:00.000Z",
+      "adjudication": "-",
+      "status": "Clear",
+      "candidateId": 4,
+      "created_at": "2024-02-21T00:00:00.000Z",
+      "updated_at": "2024-02-29T00:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "package": "Employee pro",
+      "completed_date": "2024-03-14T00:00:00.000Z",
+      "adjudication": "-",
+      "status": "Clear",
+      "candidateId": 5,
+      "created_at": "2024-03-10T00:00:00.000Z",
+      "updated_at": "2024-03-14T00:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "package": "Employee pro",
+      "completed_date": "2024-03-14T00:00:00.000Z",
+      "adjudication": "-",
+      "status": "Clear",
+      "candidateId": 6,
+      "created_at": "2024-03-02T00:00:00.000Z",
+      "updated_at": "2024-03-14T00:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "package": "Employee pro",
+      "completed_date": "2024-04-12T00:00:00.000Z",
+      "adjudication": "-",
+      "status": "Consider",
+      "candidateId": 7,
+      "created_at": "2024-04-08T00:00:00.000Z",
+      "updated_at": "2024-04-12T00:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "package": "Employee pro",
+      "completed_date": "2024-04-13T00:00:00.000Z",
+      "adjudication": "-",
+      "status": "Consider",
+      "candidateId": 8,
+      "created_at": "2024-04-10T00:00:00.000Z",
+      "updated_at": "2024-04-13T00:00:00.000Z"
+    },
+    {
+      "id": "9",
+      "package": "Employee pro",
+      "completed_date": "2024-04-17T00:00:00.000Z",
+      "adjudication": "-",
+      "status": "Clear",
+      "candidateId": 9,
+      "created_at": "2024-04-11T00:00:00.000Z",
+      "updated_at": "2024-04-17T00:00:00.000Z"
+    },
+    {
+      "id": "10",
+      "package": "Employee pro",
+      "completed_date": "2024-05-02T00:00:00.000Z",
+      "adjudication": "-",
+      "status": "Consider",
+      "candidateId": 10,
+      "created_at": "2024-05-01T00:00:00.000Z",
+      "updated_at": "2024-05-02T00:00:00.000Z"
+    }
+  ]
+}
